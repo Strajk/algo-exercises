@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "name": "algo-exercises",
+  "version": "0.0.1",
+  "description": "Algo exercises – collected & curated, in JavaScript, tested with Jest, multiple solutions, setup with Wallaby.js",
+  "keywords": [],
+  "license": "ISC",
+  "author": "Pavel 'Strajk' Dolecek <strajk@me.com> (https://www.strajk.me/)",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "~26.4.2"
+  }
+}
