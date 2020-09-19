@@ -14,7 +14,7 @@ Coding exercises should only be used for the joy of solving them.
 **Do not use them for hiring purposes!**
 Ability to solve artificial quizzes is a horrible indicator of person's real-life coding skills.
 
----
+![](README.assets/screenshot.png)
 
 ### Tips
 
