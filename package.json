@@ -7,7 +7,9 @@
   "license": "ISC",
   "author": "Pavel 'Strajk' Dolecek <strajk@me.com> (https://www.strajk.me/)",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "leet": "node tools/process-leetcode-cli-output-file.js",
+    "leet-README": "# run like `npm run leet 123`"
   },
   "devDependencies": {
     "jest": "~26.4.2"

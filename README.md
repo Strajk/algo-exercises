@@ -18,10 +18,12 @@ Ability to solve artificial quizzes is a horrible indicator of person's real-lif
 
 ### Tips
 
+- *Always* start with **pen & paper**
 - Verify:
   - Edge cases on inputs
   - Limitations & assumptions given in assignment
 - Optimization
+  - Consider which checks are not needed due to input limitations from assignment
   - Consider sorting arrays first
   - Consider real need of all assertions
   - When being extra smart, be also extra careful
@@ -45,7 +47,23 @@ Original sources:
 - https://codility.com/
 - https://www.hackerrank.com/domains/algorithms TODO
 
+### Other repos
+
+- https://github.com/johnmee/codility – Python, exhaustive tests
+- https://github.com/Dineshkarthik/codility_training - Python, less verbose, no tests
+- https://github.com/Mickey0521/Codility - Java, focus on perf, no tests
+- https://github.com/jiqsaw/code-challenges – JavaScript, messy
+
 ### Related
 
 - https://coderpad.io
 - https://codility.com
+- https://www.codewars.com
+- https://www.codingame.com - game-y
+- https://www.hackerearth.com/for-developers
+- https://www.topcoder.com
+- https://leetcode.com
+  - [YouTube explanations, Java](https://www.youtube.com/playlist?list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-)
+  - [YouTube explanations, JavaScript](https://www.youtube.com/channel/UCg-JwDhXFt79VFM902xfmhw/videos)
+- https://www.hackerrank.com
+
