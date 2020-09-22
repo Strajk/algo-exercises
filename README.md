@@ -22,10 +22,14 @@ Ability to solve artificial quizzes is a horrible indicator of person's real-lif
 - Verify:
   - Edge cases on inputs
   - Limitations & assumptions given in assignment
+  - Not obvious inputs (e.g. odd number of nodes for function that swaps adjacent nodes)
+  - Coercing 0 to false in conditions (`typeof x === 'undefined'` instead of `!x`)
 - Optimization
   - Consider which checks are not needed due to input limitations from assignment
   - Consider sorting arrays first
   - Consider real need of all assertions
+  - Consider reusing existing data structure instead of creating new ones (e.g. with swapping linked list nodes)
+  - Consider recursion
   - When being extra smart, be also extra careful
 
 ### Attributions
